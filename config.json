@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "Meerjan@1240",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "nodebb",
+        "password": "Meerjan@1240",
+        "database": "nodebb",
+        "uri": ""
+    },
+    "port": "4567"
+}
